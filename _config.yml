@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Lorem ipsum"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "obananas/xzou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,12 +24,12 @@ author:
   name             : "Lorem ipsum"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=z39tx_sAAAAJ"
+  email            : "dylan.zoux@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : # e.g., "obananas"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,10 +45,10 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
